@@ -1,4 +1,4 @@
-### :octocat: Hi there I am still working on this profile!! :construction: :construction:
+### :octocat: Hi there, I am still working on this profile!! :construction: :construction:
 
 <a href="https://github.com/imattos78"><img src="https://i.ibb.co/RB1Tbxr/LN.jpg" alt="LN" height="auto" width="200" border-radius="50%"></a>
 
