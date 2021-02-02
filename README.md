@@ -1,8 +1,8 @@
-### Hi there 👋
+### :octocat: Hi there I am still working on this profile!! :construction: :construction:
 
-<!--
-**imattos78/imattos78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/imattos78"><img src="https://i.ibb.co/RB1Tbxr/LN.jpg" alt="LN" height="auto" width="200" border-radius="50%"></a>
 
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
