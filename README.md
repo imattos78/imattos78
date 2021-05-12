@@ -1,7 +1,12 @@
 ### :octocat: Hi there, I am still working on this profile!! :construction: :construction:
-<a href="https://github.com/imattos78"><img src="https://i.ibb.co/Zg41wSp/circle-Profile.png" alt="LN" height="auto" width="300"></a>
 
-#### <a href="https://imattos78.github.io/MyPortfolio_2021/"> Please check my porfolio </a> #### 
+<p align="center">
+<a href="https://github.com/imattos78"><img src="https://i.ibb.co/Zg41wSp/circle-Profile.png" alt="LN" height="auto" width="300"></a>
+</p>
+
+<p align="center">
+  <a href="https://imattos78.github.io/MyPortfolio_2021/"> Please check my porfolio </a>
+</p>
 
 
 <!---
