@@ -1,7 +1,6 @@
 ### :octocat: Hi there, I am still working on this profile!! :construction: :construction:
+<a href="https://github.com/imattos78"><img src="https://i.ibb.co/Zg41wSp/circle-Profile.png" alt="LN" height="auto" width="300"></a>
 
-
-<a href="https://github.com/imattos78"><img src="https://i.ibb.co/x515BFG/Perfil-red.png" alt="LN" height="auto" width="200" border-radius="50%"></a>
 
 <!---
 Here are some ideas to get you started:
