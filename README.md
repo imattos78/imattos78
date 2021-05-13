@@ -1,8 +1,5 @@
-### :octocat: Hi there, I am still working on this profile!! :construction: :construction:
-
-<p align="center">
-<a href="https://github.com/imattos78"><img src="https://i.ibb.co/Zg41wSp/circle-Profile.png" alt="LN" height="auto" width="300"></a>
-</p>
+### :octocat: Hi there, I am currently working on this profile!! :construction: :construction:
+<img src="https://raw.githubusercontent.com/imattos78/imattos78/master/GithubBanner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <p align="center">
   <a href="https://imattos78.github.io/MyPortfolio_2021/"> Please check my porfolio </a>
